@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 171eec1c6dc1c0a30fcffd21d783c104fdc9a65c abodghrab288 <47674725-abodghrab288@users.noreply.replit.com> 1758300125 +0000	commit (initial): Initial commit
+171eec1c6dc1c0a30fcffd21d783c104fdc9a65c 8357b326b0502937763664e8e2df7fee624652eb abodghrab288 <47674725-abodghrab288@users.noreply.replit.com> 1758319830 +0000	commit: Add dynamic agent configuration based on runtime context
+8357b326b0502937763664e8e2df7fee624652eb c39d7bbc8b0ed4f8ac8d1b1cce3945e116e2b674 abodghrab288 <47674725-abodghrab288@users.noreply.replit.com> 1758319851 +0000	commit: Set up the basic structure for the Telegram bot
